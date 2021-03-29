@@ -90,7 +90,7 @@ prompt-toolkit==3.0.5
 py==1.8.1
 pyasn1==0.4.8
 pycaret==1.0.0
-Pygments==2.6.1
+Pygments==2.7.4
 pyLDAvis==2.1.2
 pylint==2.4.4
 pyod==0.8.0
